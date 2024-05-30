@@ -96,8 +96,3 @@ def trim_webm(webm_file, webm, ffmpeg_params):
             f"{webm_file} is too lengthy ({webm.duration}). Trim it to {SUPPORTED_DURATION} seconds"
         )
         ffmpeg_params.append(f"-t {SUPPORTED_DURATION}")
-
-
-def resize_image(img):
-    img.thumbnail(SUPPORTED_RESOLUTION)
-    return img
