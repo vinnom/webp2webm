@@ -1,0 +1,274 @@
+{
+    "info": {
+        "program": "licensecheck",
+        "version": "2024.2",
+        "license": "MIT LICENSE"
+    },
+    "project_license": "GPLV3/ GPL-3.0 LICENSE",
+    "packages": [
+        {
+            "name": "Markdown",
+            "version": "3.6",
+            "size": 317046,
+            "homePage": "UNKNOWN",
+            "author": "Manfred Stienstra, Yuri Takhteyev",
+            "license": "BSD LICENSE",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "Markdown-3.6"
+        },
+        {
+            "name": "appdirs",
+            "version": "1.4.4",
+            "size": 34928,
+            "homePage": "http://github.com/ActiveState/appdirs",
+            "author": "Trent Mick",
+            "license": "MIT LICENSE",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "appdirs-1.4.4"
+        },
+        {
+            "name": "decorator",
+            "version": "4.4.2",
+            "size": 22878,
+            "homePage": "https://github.com/micheles/decorator",
+            "author": "Michele Simionato",
+            "license": "BSD LICENSE",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "decorator-4.4.2"
+        },
+        {
+            "name": "docopt",
+            "version": "0.6.2",
+            "size": 39108,
+            "homePage": "http://docopt.org",
+            "author": "Vladimir Keleshev",
+            "license": "MIT LICENSE",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "docopt-0.6.2"
+        },
+        {
+            "name": "fhconfparser",
+            "version": "2024.1",
+            "size": 25385,
+            "homePage": "https://github.com/FHPythonUtils/FHConfParser",
+            "author": "FredHappyface",
+            "license": "MIT LICENSE",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "fhconfparser-2024.1"
+        },
+        {
+            "name": "imageio",
+            "version": "2.34.1",
+            "size": 1147461,
+            "homePage": "https://github.com/imageio/imageio",
+            "author": "imageio contributors",
+            "license": "BSD LICENSE",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "imageio-2.34.1"
+        },
+        {
+            "name": "imageio-ffmpeg",
+            "version": "0.4.9",
+            "size": 73850060,
+            "homePage": "https://github.com/imageio/imageio-ffmpeg",
+            "author": "imageio contributors",
+            "license": "BSD LICENSE",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "imageio-ffmpeg-0.4.9"
+        },
+        {
+            "name": "ipython",
+            "version": "8.12.3",
+            "size": 2484335,
+            "homePage": "https://ipython.org",
+            "author": "The IPython Development Team",
+            "license": "BSD LICENSE",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "ipython-8.12.3"
+        },
+        {
+            "name": "licensecheck",
+            "version": "2024.2",
+            "size": 68350,
+            "homePage": "https://github.com/FHPythonUtils/LicenseCheck",
+            "author": "FredHappyface",
+            "license": "MIT LICENSE",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "licensecheck-2024.2"
+        },
+        {
+            "name": "loguru",
+            "version": "0.7.2",
+            "size": 222710,
+            "homePage": "https://github.com/Delgan/loguru",
+            "author": "Delgan",
+            "license": "MIT LICENSE",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "loguru-0.7.2"
+        },
+        {
+            "name": "moviepy",
+            "version": "1.0.3",
+            "size": 268624,
+            "homePage": "https://zulko.github.io/moviepy/",
+            "author": "Zulko 2017",
+            "license": "MIT LICENSE",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "moviepy-1.0.3"
+        },
+        {
+            "name": "nbconvert",
+            "version": "7.16.4",
+            "size": 918041,
+            "homePage": "UNKNOWN",
+            "author": "UNKNOWN",
+            "license": "BSD LICENSE",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "nbconvert-7.16.4"
+        },
+        {
+            "name": "numpy",
+            "version": "1.26.4",
+            "size": 63692766,
+            "homePage": "https://numpy.org",
+            "author": "Travis E. Oliphant et al.",
+            "license": "BSD LICENSE",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "numpy-1.26.4"
+        },
+        {
+            "name": "packaging",
+            "version": "24.0",
+            "size": 172524,
+            "homePage": "UNKNOWN",
+            "author": "UNKNOWN",
+            "license": "APACHE SOFTWARE LICENSE;; BSD LICENSE",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "packaging-24.0"
+        },
+        {
+            "name": "pillow",
+            "version": "10.3.0",
+            "size": 14322788,
+            "homePage": "UNKNOWN",
+            "author": "UNKNOWN",
+            "license": "HISTORICAL PERMISSION NOTICE AND DISCLAIMER (HPND)",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "pillow-10.3.0"
+        },
+        {
+            "name": "pipreqs",
+            "version": "0.5.0",
+            "size": 103819,
+            "homePage": "https://github.com/bndr/pipreqs",
+            "author": "Vadim Kravcenko",
+            "license": "APACHE SOFTWARE LICENSE",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "pipreqs-0.5.0"
+        },
+        {
+            "name": "proglog",
+            "version": "0.1.10",
+            "size": 15407,
+            "homePage": "UNKNOWN",
+            "author": "Zulko",
+            "license": "MIT",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "proglog-0.1.10"
+        },
+        {
+            "name": "pyav",
+            "version": "12.0.5",
+            "size": 85798466,
+            "homePage": "https://github.com/WyattBlue/pyav",
+            "author": "WyattBlue",
+            "license": "BSD LICENSE",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "pyav-12.0.5"
+        },
+        {
+            "name": "requests",
+            "version": "2.32.2",
+            "size": 199825,
+            "homePage": "https://requests.readthedocs.io",
+            "author": "Kenneth Reitz",
+            "license": "APACHE SOFTWARE LICENSE",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "requests-2.32.2"
+        },
+        {
+            "name": "requests-cache",
+            "version": "1.2.0",
+            "size": 173985,
+            "homePage": "https://github.com/requests-cache/requests-cache",
+            "author": "Roman Haritonov",
+            "license": "BSD LICENSE",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "requests-cache-1.2.0"
+        },
+        {
+            "name": "rich",
+            "version": "13.7.1",
+            "size": 941650,
+            "homePage": "https://github.com/Textualize/rich",
+            "author": "Will McGugan",
+            "license": "MIT LICENSE",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "rich-13.7.1"
+        },
+        {
+            "name": "tomli",
+            "version": "2.0.1",
+            "size": 36292,
+            "homePage": "UNKNOWN",
+            "author": "UNKNOWN",
+            "license": "MIT LICENSE",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "tomli-2.0.1"
+        },
+        {
+            "name": "tqdm",
+            "version": "4.66.4",
+            "size": 221923,
+            "homePage": "UNKNOWN",
+            "author": "UNKNOWN",
+            "license": "MIT LICENSE;; MOZILLA PUBLIC LICENSE 2.0 (MPL 2.0)",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "tqdm-4.66.4"
+        },
+        {
+            "name": "yarg",
+            "version": "0.1.9",
+            "size": 53570,
+            "homePage": "https://yarg.readthedocs.org/",
+            "author": "Kura",
+            "license": "MIT LICENSE",
+            "licenseCompat": true,
+            "errorCode": 0,
+            "namever": "yarg-0.1.9"
+        }
+    ]
+}

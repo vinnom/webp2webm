@@ -13,3 +13,5 @@
 
 .venv
 /poetry.toml
+
+requirements.txt
