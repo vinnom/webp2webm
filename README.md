@@ -18,4 +18,4 @@ poetry install
 
 ## Usage
 
-`poetry run python ./webp2webm <path/to/webp>`
+`poetry run python ./webp2webm/main.py <path/to/webp>`
